@@ -40,6 +40,8 @@ pages_real/
 # Documentation and markdown files
 *.md
 *.txt
+!requirements.txt
+!README_REPO.md
 
 # Results and logs
 *results*
